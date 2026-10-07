@@ -1,0 +1,9 @@
+flask
+flask-cors
+requests
+ffmpeg-python
+python-dotenv
+faiss-cpu
+numpy
+sentence-transformers
+werkzeug
